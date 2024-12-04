@@ -1,4 +1,4 @@
-```
+
 # 📝 작업 관리 애플리케이션  
 
 ![License Badge](https://img.shields.io/badge/license-MIT-blue)  
@@ -54,8 +54,9 @@
    ```
 
 2. Python을 설치합니다(버전 3.6 이상 권장).
-```
+
 ![todo](https://github.com/user-attachments/assets/d049731f-e397-4d56-9800-e362cd9265ed)
+
 ### 애플리케이션 실행  
 Python으로 스크립트를 실행합니다:  
 ```bash
